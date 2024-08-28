@@ -6,4 +6,4 @@
 
 ### Run the python script
 
-` python gcp-resource-count-all-region.py <gcp-project-id>
+` python gcp-resource-count-all-region.py <gcp-project-id> `
